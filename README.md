@@ -24,13 +24,13 @@ Jenis Metoda terbagi dari 2 (dua) bagian besar yaitu Metoda Manual dan Metoda Pr
 - Metoda Program terdiri dari **4 (empat) langkah** yang berada diantara langkah Manual di atas
 
 #### Metoda Manual
-Metoda Manual dalam Bagan digambarkan dengan panah arah bergaris putus-putus (--->). 
+Metoda Manual dalam Bagan digambarkan dengan panah arah bergaris putus-putus (--->).  
 Metoda ini disajikan berupa blog sebagai berikut:
 - Metoda **Optimasi Toko** ditempatkan di Blogspot dengan alamat https://chetabahana.blogspot.com/
 - Metoda **eShop SEO** ditempatkan di Wordpress dengan alamat https://chetabahana.wordpress.com/
 
 #### Metoda Program
-Metoda Program dalam Bagan digambarkan dengan panah arah bergaris lurus.
+Metoda Program dalam Bagan digambarkan dengan panah arah bergaris lurus.  
 Metoda ini berupa repo dan wiki di GitHub sebagai berikut:
 - Metoda Google-Content-API dengan alamat web: https://marketleader.github.io/Google-Content-API/
 - Metoda Google-AdWords-API dengan alamat web: https://marketleader.github.io/Google-AdWords-API/
