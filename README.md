@@ -8,3 +8,6 @@ WE ARE GOING TO WIN THE MARKET!
 
 # Chetabahana Project
 We are providing an Integrated Open Source Project about The World of e-Commerce
+
+[![Skema Bagan | Chetabahana Project - A Way To Win The Market | GitHub Page](https://chetabahana.files.wordpress.com/2018/05/diagram.png)](https://chetabahana.github.io/#chetabahana-skema)
+
