@@ -40,7 +40,7 @@ Metoda ini berupa repo dan wiki di GitHub sebagai berikut:
 ### Objek Metoda  
 Objek Metoda dalam Bagan digambarkan dengan bentuk kotak. Jumlah 6 (enam) Objek. Sesuai dengan jumlah jenis Metoda.
 Untuk presentasi Progres Status dan Analisa dari Projek, Objek ini ditentukan sbb:
-- Buka Toko: Diwakili oleh Toko dari WinMarket dengan alamat [https://chetabahana.winmarket.id/](https://chetabahana,winmarket.id/) 
+- Buka Toko: Diwakili oleh Toko dari WinMarket dengan alamat [https://chetabahana.winmarket.id/](https://chetabahana.winmarket.id/) 
 - Stok Barang: Dipusatkan di domain utama dari toko online dengan alamat [https://chetabahana.com/](https://chetabahana.com/) 
 - Merchant Center: Metoda Sampling via framing di [https://marketleader.github.io/](https://marketleader.github.io/) 
 - Peluang Terbaik: Diwakili oleh beberapa item produk di [https://chetabahana.github.io/](https://chetabahana.github.io/) 
