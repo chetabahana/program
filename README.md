@@ -17,8 +17,9 @@ Bagan Eksekusi dari Projek ini secara garis besar dapar digambarkan sesuai skema
 <p align="center">  
 <a href="https://chetabahana.github.io/"><img src="https://chetabahana.files.wordpress.com/2018/05/diagram.png" alt="Skema Bagan Chetabahana Project - A Way To Win The Market"></a><br>Gambar-1: Skema Bagan <a href="https://github.com/MarketLeader">Chetabahana Project</a> - A Way To Win The Market
 </p>
-
 ### Komponen Bagan
+Bagan di atas akan berfungsi sebagai bagan utama.  
+Jenis komponen dalam bagan ini ada 4 jenis sebagai berikut:
 - Judul Bagan
 - Objek Bagan berupa kotak
 - Proses Objek berupa garis vertikal
@@ -53,7 +54,10 @@ Untuk presentasi Progres Status dan Analisa dari Projek, Objek ini ditentukan sb
 - Portfolio: Ditempatkan pada Media Situs dari Google site dengan alamat [http://toko.chetabahana.com/](http://toko.chetabahana.com/) 
 - Publikasi: Presentasi Produk di Media Sosial dan Layanan seperti [https://www.juicer.io/chetabahana](https://www.juicer.io/chetabahana) 
 
-# Hasil  Ukur
+## Bagan Proses
+Setiap komponen dari Bagan Utama akan dikembangkan menjadi Bagan Proses yand diadaptasi dari salah satu pojek di GitHub dengan nama [*railroad-diagrams*](https://github.com/tabatkins/railroad-diagrams). Contoh dari bagan proses dapat dilihat di gamar ini:
+
+## Hasil  Ukur
 Hasil ukur dari profil projek dapat digambarkan sebagai berikut:
 ![](https://chetabahana.github.io/diagrams/images/rr-multchoice.png)
 
