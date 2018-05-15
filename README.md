@@ -53,6 +53,10 @@ Untuk presentasi Progres Status dan Analisa dari Projek, Objek ini ditentukan sb
 - Portfolio: Ditempatkan pada Media Situs dari Google site dengan alamat [http://toko.chetabahana.com/](http://toko.chetabahana.com/) 
 - Publikasi: Presentasi Produk di Media Sosial dan Layanan seperti [https://www.juicer.io/chetabahana](https://www.juicer.io/chetabahana) 
 
+# Hasil  Ukur
+
+![](https://chetabahana.github.io/diagrams/images/rr-multchoice.png)
+
 ## License
 Project ini dipublikasikan dengan lisensi berikut:  
 [Apache License 2.0](https://github.com/MarketLeader/Toko-Chetabahana/blob/master/LICENSE)
