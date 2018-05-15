@@ -6,5 +6,5 @@ WE ARE GOING TO WIN THE MARKET!
 </a><br /><br />
 </p>
 
-# marketleader.github.io
+# Chetabahana Project
 We are providing an Integrated Open Source Project about The World of e-Commerce
