@@ -18,6 +18,12 @@ Bagan Eksekusi dari Projek ini secara garis besar dapar digambarkan sesuai skema
 <a href="https://chetabahana.github.io/"><img src="https://chetabahana.files.wordpress.com/2018/05/diagram.png" alt="Skema Bagan Chetabahana Project - A Way To Win The Market"></a><br>Gambar-1: Skema Bagan <a href="https://github.com/MarketLeader">Chetabahana Project</a> - A Way To Win The Market
 </p>
 
+### Komponen Bagan
+- Judul Bagan
+- Objek Bagan berupa kotak
+- Proses Objek berupa garis vertikal
+- Metoda berupa garis panah horizontal
+
 ### Jenis Metoda  
 Jenis Metoda terbagi dari 2 (dua) bagian besar yaitu Metoda Manual dan Metoda Program  
 - Metoda Manual terdiri dari **2 (dua) langkah** yaitu Metoda **Optimasi Toko** dan **eShop SEO**
