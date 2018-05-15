@@ -37,6 +37,16 @@ Metoda ini berupa repo dan wiki di GitHub sebagai berikut:
 - Metoda Google-Sites-API dengan alamat web: [https://marketleader.github.io/Google-Sites-API/](https://marketleader.github.io/Google-Sites-API/)
 - Metoda Google-AppEngine dengan alamat web: [https://marketleader.github.io/Toko-Chetabahana/](https://marketleader.github.io/Toko-Chetabahana/)
 
+### Objek Metoda  
+Objek Metoda dalam Bagan digambarkan dengan bentuk kotak. Jumlah 6 (enam) Objek. Sesuai dengan jumlah jenis Metoda.
+Untuk presentasi Progres Status dan Analisa dari Projek, Objek ini ditentukan sbb:
+- Buka Toko: Diwakili oleh Toko dari WinMarket dengan alamat [https://chetabahana,winmarket.id/](https://chetabahana,winmarket.id/) 
+- Stok Barang: Dipusatkan di domain utama dari toko online dengan alamat [https://chetabahana.com/](https://chetabahana.com/) 
+- Merchant Center: Metoda Sampling via framing di [https://marketleader.github.io/](https://marketleader.github.io/) 
+- Peluang Terbaik: Diwakili oleh beberapa item produk di [https://chetabahana.github.io/](https://chetabahana.github.io/) 
+- Portfolio: Ditempatkan pada Media Situs dari Google site dengan alamat [http://toko.chetabahana.com/](http://toko.chetabahana.com/) 
+- Publikasi: Presentasi Produk di Media Sosial dan Layanan seperti [https://www.juicer.io/chetabahana](https://www.juicer.io/chetabahana) 
+
 ## License
 Project ini dipublikasikan dengan lisensi berikut:  
 [Apache License 2.0](https://github.com/MarketLeader/Toko-Chetabahana/blob/master/LICENSE)
