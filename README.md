@@ -20,7 +20,7 @@ Bagan Eksekusi dari Projek ini secara garis besar dapar digambarkan sesuai skema
 
 ### Metoda  
 Terbagi dari 2 (dua) bagian besar yaitu Metoda Manual dan Metoda Program  
-- Metoda Manual terdiri dari 2 (dua) langkah yaitu Kelola Toko dan eShop SEO
-- Metoda Program terdiri dari 4 langkah yang berada diantara langkah Manual di atas
+- Metoda Manual terdiri dari 2 (dua) langkah yaitu Metoda Kelola (Buka) Toko dan eShop SEO
+- Metoda Program terdiri dari 4 (empat) langkah yang berada diantara langkah Manual di atas
 
 
