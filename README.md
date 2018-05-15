@@ -18,9 +18,22 @@ Bagan Eksekusi dari Projek ini secara garis besar dapar digambarkan sesuai skema
 <a href="https://chetabahana.github.io/#chetabahana-skema"><img src="https://chetabahana.files.wordpress.com/2018/05/diagram.png" alt="Skema Bagan Chetabahana Project - A Way To Win The Market"></a><br>Gambar-1: Skema Bagan <a href="https://github.com/MarketLeader">Chetabahana Project</a> - A Way To Win The Market
 </p>
 
-### Metoda  
-Terbagi dari 2 (dua) bagian besar yaitu Metoda Manual dan Metoda Program  
-- Metoda Manual terdiri dari 2 (dua) langkah yaitu Metoda Kelola (Buka) Toko dan eShop SEO
-- Metoda Program terdiri dari 4 (empat) langkah yang berada diantara langkah Manual di atas
+### Jenis Metoda  
+Jenis Metoda terbagi dari 2 (dua) bagian besar yaitu Metoda Manual dan Metoda Program  
+- Metoda Manual terdiri dari **2 (dua) langkah** yaitu Metoda **Optimasi Toko** dan **eShop SEO**
+- Metoda Program terdiri dari **4 (empat) langkah** yang berada diantara langkah Manual di atas
 
+#### Metoda Manual
+Metoda Manual dalam Bagan digambarkan dengan panah arah bergaris putus-putus (--->). 
+Metoda ini disajikan berupa blog sebagai berikut:
+- Metoda **Optimasi Toko** ditempatkan di Blogspot dengan alamat https://chetabahana.blogspot.com/
+- Metoda **eShop SEO** ditempatkan di Wordpress dengan alamat https://chetabahana.wordpress.com/
+
+#### Metoda Program
+Metoda Program dalam Bagan digambarkan dengan panah arah bergaris lurus.
+Metoda ini berupa repo dan wiki di GitHub sebagai berikut:
+- Metoda Google-Content-API dengan alamat web: https://marketleader.github.io/Google-Content-API/
+- Metoda Google-AdWords-API dengan alamat web: https://marketleader.github.io/Google-AdWords-API/
+- Metoda Google-Sites-API dengan alamat web: https://marketleader.github.io/Google-Sites-API/
+- Metoda Google-AppEngine dengan alamat web: https://marketleader.github.io/Toko-Chetabahana/
 
