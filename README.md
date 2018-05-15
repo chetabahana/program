@@ -15,7 +15,7 @@ Keberhasilan jual beli online adalah sama dengam bisnis lain, bukan tergantung b
 ## Bagan Projek
 Bagan Eksekusi dari Projek ini secara garis besar dapar digambarkan sesuai skema berikut dibawah ini:
 <p align="center">  
-<a href="https://chetabahana.github.io/#chetabahana-skema"><img src="https://chetabahana.files.wordpress.com/2018/05/diagram.png" alt="Skema Bagan Chetabahana Project - A Way To Win The Market"></a><br>Gambar-1: Skema Bagan <a href="https://github.com/MarketLeader">Chetabahana Project</a> - A Way To Win The Market
+<a href="https://chetabahana.github.io/"><img src="https://chetabahana.files.wordpress.com/2018/05/diagram.png" alt="Skema Bagan Chetabahana Project - A Way To Win The Market"></a><br>Gambar-1: Skema Bagan <a href="https://github.com/MarketLeader">Chetabahana Project</a> - A Way To Win The Market
 </p>
 
 ### Jenis Metoda  
