@@ -10,11 +10,8 @@ WE ARE GOING TO WIN THE MARKET!
 We are providing an Integrated Open Source Project about The World of e-Commerce
 
 <p align="center"> 
-<a href="https://chetabahana.github.io/#chetabahana-skema"><img src="https://chetabahana.files.wordpress.com/2018/05/diagram.png" alt="Skema Bagan | Chetabahana Project - A Way To Win The Market | GitHub Page"></a>Gambar-1: Skema Bagan | Chetabahana Project - A Way To Win The Market
+<a href="https://chetabahana.github.io/#chetabahana-skema"><img src="https://chetabahana.files.wordpress.com/2018/05/diagram.png" alt="Skema Bagan Chetabahana Project - A Way To Win The Market | GitHub Page"></a>Gambar-1: Skema Bagan <a href="https://github.com/MarketLeader">Chetabahana Project</a> - A Way To Win The Market
 </p>
 
-<p align="center"> 
-<a href="https://chetabahana.com/product?l=60&o=produk&group=406"><img src="https://user-images.githubusercontent.com/36441664/39134523-0442bbea-4741-11e8-8727-f51e473f4544.png" alt="Tampilan Database aneka produk makanan dari Toko Chetabahana di Google Merchant untuk kompetisi Tayang Iklan Belanja"></a>Gambar-1: Contoh tampilan Database <a href="https://chetabahana.com/product?l=60&o=produk&group=406">aneka produk makanan dari Toko Chetabahana.com</a> di Google Merchant
-</p>
 
 
