@@ -38,7 +38,7 @@ Metoda ini berupa repo dan wiki di GitHub sebagai berikut:
 - Metoda Google-AppEngine dengan alamat web: [https://marketleader.github.io/Toko-Chetabahana/](https://marketleader.github.io/Toko-Chetabahana/)
 
 ### Profil Objek 
-Objek Metoda dalam Bagan digambarkan dengan bentuk kotak. Jumlah 6 (enam) Objek. Sesuai dengan jumlah jenis Metoda.
+Objek Metoda dalam Bagan digambarkan dengan bentuk kotak. Jumlah 6 (enam) Objek.  
 Untuk presentasi Progres Status dan Analisa dari Projek, Objek ini ditentukan sbb:
 - Buka Toko: Diwakili oleh Toko dari WinMarket dengan alamat [https://chetabahana.winmarket.id/](https://chetabahana.winmarket.id/) 
 - Stok Barang: Dipusatkan di domain utama dari toko online dengan alamat [https://chetabahana.com/](https://chetabahana.com/) 
