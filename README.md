@@ -62,7 +62,7 @@ Untuk presentasi Progres Status dan Analisa dari Projek, Objek ini ditentukan sb
 Setiap komponen dari Bagan Utama akan dikembangkan menjadi **Bagan Proses**, suatu bagan berupa susunan kaidah ([*grammar*](http://en.wikipedia.org/wiki/Grammar)) yang dilakukan dalam proses. Bagan ini diadaptasi dari salah satu pojek di GitHub dengan nama [*railroad-diagrams*](https://github.com/tabatkins/railroad-diagrams). Contoh dari bagan ini dapat dilihat di gambar berikut:
 
 ## Hasil  Ukur
-Hasil ukur dari profil projek dapat digambarkan sebagai berikut:
+Hasil ukur dari profil projek dapat digambarkan sebagai berikut:<br>
 ![](https://chetabahana.github.io/diagrams/images/rr-multchoice.png)  
 
 Definisi dalam Bahasa dan Ingggris
