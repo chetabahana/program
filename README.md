@@ -54,8 +54,8 @@ Untuk presentasi Progres Status dan Analisa dari Projek, Objek ini ditentukan sb
 - Buka Toko: Diwakili oleh Toko dari WinMarket dengan alamat [https://chetabahana.winmarket.id/](https://chetabahana.winmarket.id/) 
 - Stok Barang: Dipusatkan di domain utama dari toko online dengan alamat [https://chetabahana.com/](https://chetabahana.com/) 
 - Merchant Center: Metoda framing dari Sampling di [https://marketleader.github.io/](https://marketleader.github.io/) 
-- Peluang Terbaik: Diwakili oleh beberapa item produk via [GitHub API](https://developer.github.com/v3/) di [https://chetabahana.github.io/](https://chetabahana.github.io/) 
-- Portfolio: Ditempatkan di Google Site dengan alamat [https://sites.google.com/site/chetabahana/](https://sites.google.com/site/chetabahana/) 
+- Portfolio: Diwakili oleh beberapa item produk via [GitHub API](https://developer.github.com/v3/) di [https://chetabahana.github.io/](https://chetabahana.github.io/) 
+- Peluang Terbaik: Ditempatkan di Google Site dengan alamat [https://sites.google.com/site/chetabahana/](https://sites.google.com/site/chetabahana/) 
 - Publikasi: Presentasi Produk di Media Sosial dan Layanan seperti [https://www.juicer.io/chetabahana](https://www.juicer.io/chetabahana) 
 
 ## Bagan Proses
