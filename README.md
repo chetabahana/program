@@ -17,7 +17,7 @@ Bagan Eksekusi dari Projek ini secara garis besar dapar digambarkan sesuai skema
 <p align="center">  
 <a href="https://chetabahana.github.io/"><img src="https://chetabahana.files.wordpress.com/2018/05/diagram.png" alt="Skema Bagan Chetabahana Project - A Way To Win The Market"></a><br>Gambar-1: Skema Bagan <a href="https://github.com/MarketLeader">Chetabahana Project</a> - A Way To Win The Market
 </p>
-### Komponen Bagan
+### Komponen Bagan  
 Bagan di atas akan berfungsi sebagai bagan utama.  
 Jenis komponen dalam bagan ini ada 4 jenis sebagai berikut:
 - Judul Bagan
