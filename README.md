@@ -1,4 +1,4 @@
-{:toc max_level=3 }
+{:toc max_level=3}
 
 
 <p align="center"> 
