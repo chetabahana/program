@@ -63,7 +63,7 @@ Setiap komponen dari Bagan Utama akan dikembangkan menjadi **Bagan Proses**, sua
 
 ## Hasil  Ukur
 Hasil ukur dari profil projek dapat digambarkan sebagai berikut:
-![](https://chetabahana.github.io/diagrams/images/rr-multchoice.png)
+![](https://chetabahana.github.io/diagrams/images/rr-multchoice.png)  
 
 Definisi dalam Bahasa dan Ingggris
 - MultipleChoice(index, type, children) - like `||` or `&&` in a CSS grammar; it's similar to a Choice, but more than one branch can be taken.  The index argument specifies which child is the "normal" choice and should go in the middle, while the type argument must be either "any" (1+ branches can be taken) or "all" (all branches must be taken).
