@@ -55,7 +55,7 @@ Untuk presentasi Progres Status dan Analisa dari Projek, Objek ini ditentukan sb
 - Stok Barang: Dipusatkan di domain utama dari toko online dengan alamat [https://chetabahana.com/](https://chetabahana.com/) 
 - Merchant Center: Metoda Sampling via framing [GitHub API](https://developer.github.com/v3/) di [https://marketleader.github.io/](https://marketleader.github.io/) 
 - Peluang Terbaik: Diwakili oleh beberapa item produk di [https://chetabahana.github.io/](https://chetabahana.github.io/) 
-- Portfolio: Ditempatkan pada di Google Site dengan alamat [https://sites.google.com/site/chetabahana/](https://sites.google.com/site/chetabahana/) 
+- Portfolio: Ditempatkan di Google Site dengan alamat [https://sites.google.com/site/chetabahana/](https://sites.google.com/site/chetabahana/) 
 - Publikasi: Presentasi Produk di Media Sosial dan Layanan seperti [https://www.juicer.io/chetabahana](https://www.juicer.io/chetabahana) 
 
 ## Bagan Proses
