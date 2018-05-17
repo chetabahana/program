@@ -11,6 +11,12 @@ WE ARE GOING TO WIN THE MARKET!
 </p>
 
 # Chetabahana Project
+
+[![Build Status](https://travis-ci.org/guard/guard.svg)](https://travis-ci.org/guard/guard) [![Dependency Status](https://gemnasium.com/guard/guard.png)](https://gemnasium.com/guard/guard) [![Code Climate](https://codeclimate.com/github/guard/guard/badges/gpa.svg)](https://codeclimate.com/github/guard/guard) [![Test Coverage](https://codeclimate.com/github/guard/guard/badges/coverage.svg)](https://codeclimate.com/github/guard/guard) [![Inline docs](http://inch-ci.org/github/guard/guard.svg)](http://inch-ci.org/github/guard/guard)
+
+Tutorial cara buat halaman situs di Github.
+
+
 We are providing an Integrated Open Source Project about The World of e-Commerce
 
 ## Pratinjau
