@@ -73,7 +73,7 @@ Project ini dipublikasikan dengan lisensi berikut:
 [Apache License 2.0](https://github.com/MarketLeader/Toko-Chetabahana/blob/master/LICENSE)
 
 ## Pustaka
-Disarankan untuk disimak sebelum melangkah lebih jauh:
+Disarankan untuk disimak sebelum melangkah lebih jauh:  
 Dokumentasi Project: https://github.com/MarketLeader/marketleader.github.io/wiki
 
 <p align="center"> 
