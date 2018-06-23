@@ -12,7 +12,7 @@ We are providing an Integrated Open Source Project about The World of e-Commerce
 
 [![Build Status](https://travis-ci.org/guard/guard.svg)](https://travis-ci.org/guard/guard) [![Dependency Status](https://gemnasium.com/guard/guard.png)](https://gemnasium.com/guard/guard) [![Code Climate](https://codeclimate.com/github/guard/guard/badges/gpa.svg)](https://codeclimate.com/github/guard/guard) [![Test Coverage](https://codeclimate.com/github/guard/guard/badges/coverage.svg)](https://codeclimate.com/github/guard/guard) [![Inline docs](http://inch-ci.org/github/guard/guard.svg)](http://inch-ci.org/github/guard/guard)  
 
-## Pratinjau
+## Preambule
 Keberhasilan jual beli online adalah sama dengam bisnis lain, bukan tergantung besarnya promosi atau murahnya barang, tapi strategi untuk bisa menjangkau pelanggan lebih cepat dan beri pelayanan secara tepat. Projek ini akan fokus kepada pengembangan dari teknik dan metoda yang diambil untuk memperoleh strategi yang paling akurat untuk dijalankan guna peroleh hasil yang paling optimal.
 
 ## Bagan Projek
