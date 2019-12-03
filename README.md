@@ -60,7 +60,7 @@ Untuk presentasi Progres Status dan Analisa dari Projek, Objek ini ditentukan sb
 - Publikasi: Presentasi Produk di Media Sosial dan Layanan seperti [https://www.juicer.io/chetabahana](https://www.juicer.io/chetabahana) 
 
 ## Bagan Proses
-Setiap komponen dari Bagan Utama akan dikembangkan menjadi **Bagan Proses**, suatu bagan berupa susunan kaidah ([*grammar*](http://en.wikipedia.org/wiki/Grammar)) yang dilakukan dalam proses. Bagan ini diadaptasi dari salah satu pojek di GitHub dengan nama [*railroad-diagrams*](https://github.com/tabatkins/railroad-diagrams). Contoh dari bagan ini dapat dilihat di gambar berikut:
+Setiap komponen dari Bagan Utama akan dikembangkan menjadi **[Bagan Proses](https://github.com/chetabahana/chetabahana.github.io/wiki/Grammar)**, suatu bagan berupa susunan kaidah ([*grammar*](http://en.wikipedia.org/wiki/Grammar)) yang dilakukan sebagai salah satu step dalam [proses penelusuran](https://github.com/chetabahana/chetabahana.github.io/wiki/Tipe-Diagram). Bagan ini diadaptasi dari salah satu pojek di GitHub dengan nama [*railroad-diagrams*](https://github.com/tabatkins/railroad-diagrams). Contoh dari bagan ini dapat dilihat di gambar berikut:
 
 ## Hasil  Ukur
 Hasil ukur dari profil projek dapat digambarkan sebagai berikut:<br>
