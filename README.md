@@ -41,6 +41,8 @@ Metoda ini disajikan berupa blog sebagai berikut:
 - Metoda **Optimasi Toko** ditempatkan di Blogspot dengan alamat [https://chetabahana.blogspot.com/](https://chetabahana.blogspot.com/)
 - Metoda **eShop SEO** ditempatkan di Wordpress dengan alamat [https://chetabahana.wordpress.com/](https://chetabahana.wordpress.com/)
 
+<img src=https://user-images.githubusercontent.com/36441664/72468147-0d7a3880-380f-11ea-80bf-7f0b8d196dc3.png>
+
 #### Metoda Program
 Metoda Program dalam Bagan digambarkan dengan panah arah bergaris lurus.  
 Metoda ini berupa repo dan wiki di GitHub sebagai berikut:
