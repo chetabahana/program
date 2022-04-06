@@ -4,3 +4,5 @@ plugins:
   - jekyll-feed
   - jekyll-coffeescrip
 remote_theme: benbalter/retlab
+title: MarketLeader
+description: Attorney, open source developer, product manager
