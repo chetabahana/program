@@ -9,3 +9,5 @@ remote_theme: FeedTheme/retlab
 nav_pages:
   - index.html
   - about.md
+
+theme: jekyll-theme-tactile
