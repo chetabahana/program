@@ -3,4 +3,4 @@ highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-coffeescrip
-theme: jekyll-theme-merlot
+remote_theme: benbalter/retlab
