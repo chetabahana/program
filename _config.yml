@@ -3,6 +3,6 @@ highlighter: rouge
 plugins:
   - jekyll-feed
   - jekyll-coffeescrip
-remote_theme: benbalter/retlab
+remote_theme: FeedTheme/retlab
 title: MarketLeader
 description: Attorney, open source developer, product manager
